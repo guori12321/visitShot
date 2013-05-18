@@ -1,3 +1,11 @@
+# My LOG file
+LOG/*
+
+# Vim files
+*.swo
+*.swp
+*.~
+
 *.py[cod]
 
 # C extensions
