@@ -11,19 +11,11 @@ A really basic blog. Note there isn't authentication on this, so anyone could cr
 ## File List
 
 /blog.py
-
 /schema.sql
-
 /templates:
-
     /templates/view.html
-
     /templates/new.html
-
     /templates/base.html
-
     /templates/index.html
-
     /templates/edit.html
-
 /model.py
